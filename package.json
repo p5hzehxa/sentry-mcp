@@ -58,7 +58,7 @@
     "turbo": "catalog:",
     "typescript": "catalog:",
     "valibot": "catalog:",
-    "vitest": "catalog:",
+    "vitest": "4.1.8",
     "vitest-evals": "catalog:"
   },
   "simple-git-hooks": {
